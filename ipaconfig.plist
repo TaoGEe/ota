@@ -12,7 +12,7 @@
             <key>kind</key>  
             <string>software-package</string>  
             <key>url</key>  
-            <string>http://10.83.0.64:8000/pkg/webpkg/ios_4.29_release_05091811.ipa</string> 
+            <string>_pkgpath_</string> 
           </dict>  
           <dict> 
             <key>kind</key>  
@@ -28,11 +28,11 @@
           <key>bundle-identifier</key>  
           <string>slots.diamondlife.casino.games.ios</string>  
           <key>bundle-version</key>  
-          <string>4.32</string>  
+          <string>_version_</string>  
           <key>kind</key>  
           <string>software</string>  
           <key>title</key>  
-          <string>测试包</string> 
+          <string>_title_</string> 
         </dict> 
       </dict> 
     </array> 
